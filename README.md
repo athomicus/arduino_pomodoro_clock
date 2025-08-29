@@ -1,6 +1,10 @@
 # arduino_pomodoro_clock
    <img width="224" height="189" alt="obraz" src="https://github.com/user-attachments/assets/5efea825-89bd-4e49-8efb-27596435bd77" />
 
+
+https://github.com/user-attachments/assets/8372e83a-47a1-4b83-885f-ee5969b65357
+
+
 Idea was to create simple timer for counting ~30 minutes.<br>
 The Pomodoro Technique is a time-management method that uses a timer to break work into intervals, 
 traditionally 25 minutes in length, separated by short breaks. 
