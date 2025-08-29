@@ -27,6 +27,7 @@ How it works ( idea for my counter)
   
    ![anim](https://github.com/user-attachments/assets/746fc7d6-0ad1-4c37-93d3-ff2f4c6e10fb)
 
+
 # parts I used:
 - Led Matrix 1088BS*
   
@@ -39,7 +40,8 @@ How it works ( idea for my counter)
   
   ![parts](https://github.com/user-attachments/assets/918d0b44-aea4-4731-92d5-e03515346a3a)
 
-# connect evrything together:
+
+# connect everything together:
 I used some scheme from the web:
 
 ![projekt16](https://github.com/user-attachments/assets/893a50c4-d830-4703-b7c2-4933c5b768fa)
