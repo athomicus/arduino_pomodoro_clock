@@ -23,3 +23,6 @@ How it works
 - clock will start counting lighting up another LEDs
   
 ![leds](https://github.com/user-attachments/assets/28c73d8a-36a1-436b-a800-9d56f5fb2bb2)
+- after end of time animation will start again
+  
+![anim](https://github.com/user-attachments/assets/746fc7d6-0ad1-4c37-93d3-ff2f4c6e10fb)
