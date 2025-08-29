@@ -21,4 +21,5 @@ How it works
 } 
 ```
 - clock will start counting lighting up another LEDs
-  ![leds](https://github.com/user-attachments/assets/946779b0-4ecd-45d7-a144-968e9182f160)
+  
+![leds](https://github.com/user-attachments/assets/28c73d8a-36a1-436b-a800-9d56f5fb2bb2)
