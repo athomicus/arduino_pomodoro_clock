@@ -9,7 +9,7 @@ The process involves identifying a task, working on it with no distractions for 
 
 How it works
 - clock showing animation
-- when you click button then using interrupotion function set variable  counting_active = true
+- when you click button then using interruption function will set variable  counting_active to  <b>true</b>
 ```C
  ISR(PCINT1_vect)  //przerwanie
  {
@@ -20,3 +20,5 @@ How it works
   counting_active=true;
 } 
 ```
+- clock will start counting lighting up another LEDs
+  ![leds](https://github.com/user-attachments/assets/946779b0-4ecd-45d7-a144-968e9182f160)
