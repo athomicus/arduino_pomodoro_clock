@@ -7,7 +7,7 @@ traditionally 25 minutes in length, separated by short breaks.
 Each interval is called a "pomodoro" (the Italian word for tomato). 
 The process involves identifying a task, working on it with no distractions for 25 minutes, taking a 5-minute break, and repeating this for four pomodoros
 
-How it works
+How it works ( idea for my counter)
 - clock showing animation
 - when you click button then using interruption function will set variable  counting_active to  <b>true</b>
 ```C
