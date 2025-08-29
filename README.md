@@ -56,7 +56,7 @@ I used some scheme from the web:
 ![projekt16](https://github.com/user-attachments/assets/893a50c4-d830-4703-b7c2-4933c5b768fa)
 <br>
 Important thing is to connect properly cables to selected PINs in Arduino so
-if you look at the LED Matrix 8x8 ther is a signature <b>1088BS</b> so starting from left, 
+if you look at the LED Matrix 8x8 there is a signature <b>1088BS</b> so starting from left, 
 - brown cable go into a Arduino PIN <b>A5</b>
 - red cable go into a Arduino PIN <b>A4</b>
 - orange cable go into a Arduino PIN <b>A3</b>
