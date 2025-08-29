@@ -29,10 +29,12 @@ How it works ( idea for my counter)
 
 # parts I used:
 - Led Matrix 1088BS
+  
    ![matrix](https://github.com/user-attachments/assets/58eb4fb9-4a1a-4e8a-ad68-cec9e511c7f7)
 - Arduino Uno
 - Cables
 - button
 - case for Arduino
 - case for battery ( 9V )
+  
   ![parts](https://github.com/user-attachments/assets/918d0b44-aea4-4731-92d5-e03515346a3a)
