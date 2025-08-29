@@ -10,7 +10,9 @@ traditionally 25 minutes in length, separated by short breaks.
 Each interval is called a "pomodoro" (the Italian word for tomato). 
 The process involves identifying a task, working on it with no distractions for 25 minutes, taking a 5-minute break, and repeating this for four pomodoros
 <br>
+
 https://github.com/user-attachments/assets/8372e83a-47a1-4b83-885f-ee5969b65357
+
 <br>
 
 
