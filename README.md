@@ -34,5 +34,5 @@ How it works ( idea for my counter)
 - Cables
 - button
 - case for arduion
-- case for battery ( 9V )  
+- case for battery ( 9V )
    ![parts](https://github.com/user-attachments/assets/918d0b44-aea4-4731-92d5-e03515346a3a)
