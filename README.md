@@ -6,3 +6,17 @@ The Pomodoro Technique is a time-management method that uses a timer to break wo
 traditionally 25 minutes in length, separated by short breaks. 
 Each interval is called a "pomodoro" (the Italian word for tomato). 
 The process involves identifying a task, working on it with no distractions for 25 minutes, taking a 5-minute break, and repeating this for four pomodoros
+
+How it works
+- clock showing animation
+- when you click button then using interrupotion function set variable  counting_active = true
+```C
+ ISR(PCINT1_vect)  //przerwanie
+ {
+  counting_active = true;
+  startTime=millis();
+  clear_progress();
+  startTimeInterval=millis();     
+  counting_active=true;
+} 
+```
