@@ -50,7 +50,10 @@ Important thing is to connect properly cables to selected PINs in Arduino so
 if you look at the LED Matrix 8x8 ther is a signature <b>1088BS</b> so starting from left, 
 - brown cable go into a Arduino PIN <b>A5</b>
 - red cable go into a Arduino PIN <b>A4</b>
-- red cable go into a Arduino PIN <b>A4</b>
+- orange cable go into a Arduino PIN <b>A3</b>
+- yellow cable go into a Arduino PIN <b>A2</b>
+- green cable go into a Arduino PIN <b>13</b>
+etc...
 
 <img width="323" height="243" alt="obraz" src="https://github.com/user-attachments/assets/16c5f981-7b4e-4971-84d3-94db6b52aa9e" />
 
