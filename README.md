@@ -46,6 +46,11 @@ I used some scheme from the web:
 
 ![projekt16](https://github.com/user-attachments/assets/893a50c4-d830-4703-b7c2-4933c5b768fa)
 
+Important thing is to connect properly cables to selected PINs in Arduino so
+if you look at the LED Matrix 8x8 ther is a signature <b>1088BS</b> so starting from left, brown cable should go into a PIN 13
+<img width="323" height="243" alt="obraz" src="https://github.com/user-attachments/assets/16c5f981-7b4e-4971-84d3-94db6b52aa9e" />
+
+
 ![conm](https://github.com/user-attachments/assets/b5d43575-6302-4c8f-85c0-3560720f18bc)
 
 
