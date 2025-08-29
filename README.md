@@ -27,7 +27,7 @@ How it works ( idea for my counter)
   
    ![anim](https://github.com/user-attachments/assets/746fc7d6-0ad1-4c37-93d3-ff2f4c6e10fb)
 
-
+<br><br>
 # parts I used:
 - Led Matrix 1088BS*
   
@@ -40,14 +40,15 @@ How it works ( idea for my counter)
   
   ![parts](https://github.com/user-attachments/assets/918d0b44-aea4-4731-92d5-e03515346a3a)
 
-
+<br><br>
 # connect everything together:
 I used some scheme from the web:
 
 ![projekt16](https://github.com/user-attachments/assets/893a50c4-d830-4703-b7c2-4933c5b768fa)
 
 Important thing is to connect properly cables to selected PINs in Arduino so
-if you look at the LED Matrix 8x8 ther is a signature <b>1088BS</b> so starting from left, brown cable should go into a PIN 13
+if you look at the LED Matrix 8x8 ther is a signature <b>1088BS</b> so starting from left, brown cable should go into a PIN A5
+
 <img width="323" height="243" alt="obraz" src="https://github.com/user-attachments/assets/16c5f981-7b4e-4971-84d3-94db6b52aa9e" />
 
 
