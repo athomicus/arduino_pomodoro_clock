@@ -2,7 +2,6 @@
    <img width="224" height="189" alt="obraz" src="https://github.com/user-attachments/assets/5efea825-89bd-4e49-8efb-27596435bd77" />
 
 
-https://github.com/user-attachments/assets/8372e83a-47a1-4b83-885f-ee5969b65357
 
 
 Idea was to create simple timer for counting ~30 minutes.<br>
@@ -10,6 +9,10 @@ The Pomodoro Technique is a time-management method that uses a timer to break wo
 traditionally 25 minutes in length, separated by short breaks. 
 Each interval is called a "pomodoro" (the Italian word for tomato). 
 The process involves identifying a task, working on it with no distractions for 25 minutes, taking a 5-minute break, and repeating this for four pomodoros
+
+https://github.com/user-attachments/assets/8372e83a-47a1-4b83-885f-ee5969b65357
+
+
 
 How it works ( idea for my counter)
 - clock showing animation
