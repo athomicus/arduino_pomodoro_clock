@@ -56,7 +56,7 @@ if you look at the LED Matrix 8x8 ther is a signature <b>1088BS</b> so starting 
 <br>etc...
 
 <img width="323" height="243" alt="obraz" src="https://github.com/user-attachments/assets/16c5f981-7b4e-4971-84d3-94db6b52aa9e" />
-<br><br>s
+<br><br>
 
 ![conm](https://github.com/user-attachments/assets/b5d43575-6302-4c8f-85c0-3560720f18bc)
 
