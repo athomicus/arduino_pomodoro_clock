@@ -28,7 +28,7 @@ How it works ( idea for my counter)
    ![anim](https://github.com/user-attachments/assets/746fc7d6-0ad1-4c37-93d3-ff2f4c6e10fb)
 
 # parts I used:
-- Led Matrix 1088BS
+- Led Matrix 1088BS*
   
    ![matrix](https://github.com/user-attachments/assets/58eb4fb9-4a1a-4e8a-ad68-cec9e511c7f7)
 - Arduino Uno
@@ -38,3 +38,17 @@ How it works ( idea for my counter)
 - case for battery ( 9V )
   
   ![parts](https://github.com/user-attachments/assets/918d0b44-aea4-4731-92d5-e03515346a3a)
+
+# connect evrything together:
+I used some scheme from the web:
+
+![projekt16](https://github.com/user-attachments/assets/893a50c4-d830-4703-b7c2-4933c5b768fa)
+
+![conm](https://github.com/user-attachments/assets/b5d43575-6302-4c8f-85c0-3560720f18bc)
+
+
+
+
+  *what I notice you can buy Led Matrtix 8x8 with driver so you can use less cable connection and should be easier than my:
+  <img width="745" height="323" alt="obraz" src="https://github.com/user-attachments/assets/1cb57faf-91a7-4a69-aec8-6ecc9c12a1b3" />
+
