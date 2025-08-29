@@ -29,7 +29,7 @@ How it works ( idea for my counter)
   counting_active=true;
 } 
 ```
-- clock will start counting lighting up another LEDs (to make it easier I used internal arduino
+- clock will start counting lighting up another LEDs (to make it easier I used internal arduino timer)
   
   ![leds](https://github.com/user-attachments/assets/28c73d8a-36a1-436b-a800-9d56f5fb2bb2)
 - after end of time animation will start again
