@@ -62,7 +62,8 @@ if you look at the LED Matrix 8x8 ther is a signature <b>1088BS</b> so starting 
 
 
 
-
-  *what I notice you can buy Led Matrtix 8x8 with driver so you can use less cable connection and should be easier than my:
+<br><BR>
+  <i>*what I notice you can buy Led Matrtix 8x8 with driver so you can use less cable connection and should be easier than my:
   <img width="745" height="323" alt="obraz" src="https://github.com/user-attachments/assets/1cb57faf-91a7-4a69-aec8-6ecc9c12a1b3" />
-
+<br><Br> there is also version with "A" dont remember exactly for ie <b> 1088AS</b> and I discover that you need to use different cable connections( opposite)
+<br><br> steering this led is a little bit tricky because they are blinking always in a loop and you have the impression that they are alwayes turned on - you can see the pictures it seems that some of leds are not working</i>
