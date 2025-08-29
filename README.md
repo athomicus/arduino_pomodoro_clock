@@ -27,6 +27,8 @@ How it works ( idea for my counter)
   
    ![anim](https://github.com/user-attachments/assets/746fc7d6-0ad1-4c37-93d3-ff2f4c6e10fb)
 
-#parts I used:
+# parts I used:
 - Led Matrix 1088BS
    ![matrix](https://github.com/user-attachments/assets/58eb4fb9-4a1a-4e8a-ad68-cec9e511c7f7)
+- Arduino Uno
+- Cables
