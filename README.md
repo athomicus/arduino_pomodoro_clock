@@ -72,7 +72,7 @@ if you look at the LED Matrix 8x8 there is a signature <b>1088BS</b> so starting
 
 
 <br><BR><br><br>
-  <i>*what I noticed you can buy Led Matrtix 8x8 with driver so you can use less cable connections and should be easier setup than my:
+  <i>*what I noticed you can buy Led Matrtix 8x8 with driver so you can use less cable connections and should be easier than my setup:
   
   <img width="745" height="323" alt="obraz" src="https://github.com/user-attachments/assets/1cb57faf-91a7-4a69-aec8-6ecc9c12a1b3" />
 
